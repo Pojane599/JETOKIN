@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "630062507218",
+    "project_id": "jetokin-fea70",
+    "storage_bucket": "jetokin-fea70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630062507218:android:6a3c8e257b6d2cd17a790b",
+        "android_client_info": {
+          "package_name": "com.example.jetokin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630062507218-6qngcckpr3m3dfggqs7lkq1g6pfseekn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jetokin",
+            "certificate_hash": "4858ace126c4436a86c929cea4b5a00e90148996"
+          }
+        },
+        {
+          "client_id": "630062507218-v8it2cji56p8dpodbui0pri7cm3bf0up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk6BuT5OYato97brFOKYHyzXOIxDMMpuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630062507218-v8it2cji56p8dpodbui0pri7cm3bf0up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
