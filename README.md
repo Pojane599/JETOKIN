@@ -1,16 +1,14 @@
-# jetokin
+# Jejak Tokoh Indonesia: Pahlawan, Pemimpin, dan Inspirator
 
-A new Flutter project.
+Jejak Tokoh Indonesia adalah aplikasi edukasi interaktif yang mengenalkan tokoh-tokoh besar Indonesia, termasuk pahlawan, pemimpin, dan inspirator melalui berbagai fitur menarik seperti:
+- Timeline Sejarah: Menyajikan perjalanan hidup tokoh-tokoh Indonesia.
+- Kuis Edukatif: Menantang pengetahuan sejarah pengguna.
+- Chatbot: Berinteraksi langsung dengan tokoh sejarah.
+- Leaderboard: Menyimpan hasil skor kuis pengguna.
 
-## Getting Started
+Aplikasi ini bertujuan untuk meningkatkan minat generasi muda terhadap sejarah Indonesia dengan cara yang menarik dan mudah diakses.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Fitur Utama
+- Interaktif: Fitur kuis dan chatbot yang menarik.
+- Edukasi: Pembelajaran melalui timeline dan fakta-fakta tokoh sejarah.
+- Leaderboard: Persaingan sehat dalam menjawab kuis.
